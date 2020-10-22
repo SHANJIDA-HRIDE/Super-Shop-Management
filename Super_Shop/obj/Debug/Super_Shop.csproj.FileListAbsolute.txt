@@ -1,0 +1,48 @@
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.login.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.cache
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.Salesmanhome.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.SalesProduct.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Manager.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Customer_Page.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Mngr_Customer_Info.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.My_Info.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Mngr_Product_Details.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Mngr_Salesman_Info.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Mngr_Transaction.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Product_Details.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Purchase_Details.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojAssemblyReference.cache
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.SalesPurchase.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.SalesCustomer.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.Register.resources
+D:\documents\semester 9\C#\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.ChangePass.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe.config
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.exe
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\bin\Debug\Super_Shop.pdb
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csprojAssemblyReference.cache
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.ChangePass.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Customer_Page.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.login.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Manager.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Mngr_Customer_Info.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Mngr_Product_Details.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.My_Info.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Mngr_Salesman_Info.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Mngr_Transaction.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Product_Details.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Purchase_Details.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.Register.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.SalesCustomer.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.Salesmanhome.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.SalesProduct.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.form.SalesPurchase.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.Properties.Resources.resources
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.csproj.GenerateResource.cache
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.exe
+F:\SEMISTER-9\C#\FINAL-C#\project\Final_Project\Super_Shop\Super_Shop\obj\Debug\Super_Shop.pdb

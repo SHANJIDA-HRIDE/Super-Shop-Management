@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77893FB3-BBF2-4526-9CF5-469093E044AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Super_Shop</RootNamespace>
+    <AssemblyName>Super_Shop</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="form\ChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ChangePass.Designer.cs">
+      <DependentUpon>ChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Customer_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Customer_Page.designer.cs">
+      <DependentUpon>Customer_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Manager.designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Mngr_Customer_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Mngr_Customer_Info.designer.cs">
+      <DependentUpon>Mngr_Customer_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Mngr_Product_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Mngr_Product_Details.designer.cs">
+      <DependentUpon>Mngr_Product_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\My_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\My_Info.designer.cs">
+      <DependentUpon>My_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Mngr_Salesman_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Mngr_Salesman_Info.designer.cs">
+      <DependentUpon>Mngr_Salesman_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Mngr_Transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Mngr_Transaction.designer.cs">
+      <DependentUpon>Mngr_Transaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Product_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Product_Details.designer.cs">
+      <DependentUpon>Product_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Purchase_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Purchase_Details.designer.cs">
+      <DependentUpon>Purchase_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SalesCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SalesCustomer.Designer.cs">
+      <DependentUpon>SalesCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Salesmanhome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Salesmanhome.Designer.cs">
+      <DependentUpon>Salesmanhome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SalesProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SalesProduct.Designer.cs">
+      <DependentUpon>SalesProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SalesPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SalesPurchase.Designer.cs">
+      <DependentUpon>SalesPurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="models\Product.cs" />
+    <Compile Include="models\DataAccess.cs" />
+    <Compile Include="models\UserLogin.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="form\ChangePass.resx">
+      <DependentUpon>ChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Customer_Page.resx">
+      <DependentUpon>Customer_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Mngr_Customer_Info.resx">
+      <DependentUpon>Mngr_Customer_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Mngr_Product_Details.resx">
+      <DependentUpon>Mngr_Product_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\My_Info.resx">
+      <DependentUpon>My_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Mngr_Salesman_Info.resx">
+      <DependentUpon>Mngr_Salesman_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Mngr_Transaction.resx">
+      <DependentUpon>Mngr_Transaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Product_Details.resx">
+      <DependentUpon>Product_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Purchase_Details.resx">
+      <DependentUpon>Purchase_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SalesCustomer.resx">
+      <DependentUpon>SalesCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Salesmanhome.resx">
+      <DependentUpon>Salesmanhome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SalesProduct.resx">
+      <DependentUpon>SalesProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SalesPurchase.resx">
+      <DependentUpon>SalesPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
